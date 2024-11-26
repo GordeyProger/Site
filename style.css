@@ -94,7 +94,7 @@ a:hover {
 }
 .otz1 {
   width: 100%;
-  height: 100px;
+  height: 10vw;
   display: flex;
   margin-top: 20px;
 }
@@ -276,7 +276,7 @@ path.two {
 }
 .kursi {
   width: 100%;
-  height: 380px;
+  height: 26vw;
   display: flex;
   justify-content: space-around;
   align-items: center;
